@@ -296,8 +296,8 @@ MIT License - See LICENSE file for details
 ## 📧 Contact
 
 For questions or collaboration:
-- GitHub Issues
-- Email: [your-email]
+- GitHub: [Vaibhav-Uniyal](https://github.com/Vaibhav-Uniyal)
+- Email: [vaibhavuniyal10@gmail.com]
 
 ---
 
